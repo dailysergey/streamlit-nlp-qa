@@ -27,7 +27,7 @@ def init_pinecone():
 
 def card(id_val, source, context):
     st.markdown(f"""
-    <div class="card" style="margin:1rem; background-color:black;">
+    <div class="card" style="margin:1rem; background-color:lightgrey;">
         <div class="card-body">
             <h5 class="card-title">{source}</h5>
             <h6 class="card-subtitle mb-2 text-muted">{id_val}</h6>
