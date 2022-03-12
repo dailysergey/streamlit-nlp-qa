@@ -7,3 +7,4 @@ Stack:
 -   [Streamlit](https://streamlit.io/) - the fastest way to build and share data apps
 -   [Pinecone](https://www.pinecone.io/) - makes it easy to build high-performance vector search applications
 -   [squad_v2](https://huggingface.co/datasets/squad_v2) - dataset for pinecone index
+-   [pinecone/mpnet-retriever-squad2](https://huggingface.co/pinecone/mpnet-retriever-squad2) - model to build vector embeddings index in pinecone
